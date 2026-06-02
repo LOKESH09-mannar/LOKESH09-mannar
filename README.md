@@ -119,7 +119,7 @@ class Lokesh:
 
 | Project | Stack | Highlights |
 |--------|-------|-----------|
-| [**🤖 Antigravity — LLM Question Generation**](https://github.com/lokeshmanner5) | SwiftUI · FastAPI · Python · Ollama | AI-driven ed-tech platform; auto-extracts syllabus from PDFs; reduced manual processing time by **40%**; concurrent FastAPI backend with local LLM prompt engineering |
+| [**🤖 LLM Question Generation**](https://github.com/lokeshmanner5) | SwiftUI · FastAPI · Python · Ollama | AI-driven ed-tech platform; auto-extracts syllabus from PDFs; reduced manual processing time by **40%**; concurrent FastAPI backend with local LLM prompt engineering |
 | [**🏥 Healthcare Predictive Analytics**](https://github.com/lokeshmanner5) | Python · Pandas · Scikit-Learn · ML | Predictive models for patient length-of-stay forecasting & early-onset sepsis detection; rigorous EDA & feature engineering on large-scale clinical datasets |
 | [**📱 Interactive iOS Applications**](https://github.com/lokeshmanner5) | SwiftUI · FastAPI | Multiple ed-tech & scheduling iOS apps; dynamic calendar, real-time state sync, automated push notifications via FastAPI |
 | [**🛒 Agriz Mart App**](https://github.com/lokeshmanner5) | React Native · JavaScript | Cross-platform marketplace connecting local farmers with consumers; secure auth, product cataloging, cart management & checkout workflows |
